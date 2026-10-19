@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  Hey! I'm <b>Chandru</b>, a passionate <b>Cyber Security student &amp; developer</b> based in <b>Coimbatore, India</b>.<br />
+  Hey! I'm <b>Gojo</b>, a passionate <b>Cyber Security student &amp; developer</b> based in <b>Coimbatore, India</b>.<br />
   Currently pursuing my at <b>Dhanalakshmi Srinivasan College of Engineering, Coimbatore</b>.<br />
   I am a positive person and analytical thinker, enthusiastic about computer systems, network defense, database management, and developing modern secure applications.
 </p>
